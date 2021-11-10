@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>
+TABLE {border-width: 1px; border-style: solid; border-color: black; border-collapse: collapse;}
+TD {border-width: 1px; padding: 3px; border-style: solid; border-color: black;}
+th {
+background: #eee;
+font-family: Courier New
+}
+tr{
+    font-family: Courier New
+}
+p{
+    font-family: Courier New
+}
+</style>
+<p>
+<b>   </b>
+<p>
+Event Log Selection: <b>system </b>
+<p>
+Target Computer(s) Selection: <b> LAPTOP-IGMJ8OLJ </b>
+<p>
+Event Type Filter: <b> Error </b>
+<p>
+</head><body>
+<table>
+<colgroup><col/><col/><col/></colgroup>
+<tr><th>TimeGenerated</th><th>EntryType</th><th>Message</th></tr>
+</table>
+</body></html>
