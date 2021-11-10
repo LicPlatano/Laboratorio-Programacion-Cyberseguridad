@@ -1,0 +1,3 @@
+#! /bin/bash
+
+sudo nmap -sS --min-rate 5000 -vvv -n -Pn 184.202.21.23 -oG nmap.txt
